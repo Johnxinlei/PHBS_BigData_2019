@@ -1,4 +1,5 @@
 # Homework 1 
+常鑫磊 1801212779
 
 ## Bigdata in quantitative finance
   Big data in quantitative finance is very popular recently, especially in high frequency trading, such as using high frequency factor

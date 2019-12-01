@@ -3,11 +3,11 @@
 ## Bigdata in quantitative finance
   Big data in quantitative finance is very popular recently, especially in high frequency trading, such as using high frequency factor
 to predict the price movement and algorithm trading. The intrinsic big data properties as follows:
-* ![bigdata properties in high frequency trading](properties.png)
+![bigdata properties in high frequency trading](properties.png)
 
 
 ## Workflow
-* ![Workflow](Workflow.png)
+![Workflow](Workflow.png)
 
 
 ## Database selection
